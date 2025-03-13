@@ -1,0 +1,34 @@
+{
+  "categories": [
+    {
+      "name": "Quality of Life",
+      "mods": [
+        {
+          "name": "BetterJump",
+          "description": "Improves jumping physics.",
+          "download": "https://example.com/betterjump.zip"
+        },
+        {
+          "name": "NoClip",
+          "description": "Allows you to pass through walls.",
+          "download": "https://example.com/noclip.zip"
+        }
+      ]
+    },
+    {
+      "name": "Fun Mods",
+      "mods": [
+        {
+          "name": "Flying Mod",
+          "description": "Lets you fly around the map.",
+          "download": "https://example.com/flyingmod.zip"
+        },
+        {
+          "name": "Big Hands",
+          "description": "Makes your hands huge.",
+          "download": "https://example.com/bighands.zip"
+        }
+      ]
+    }
+  ]
+}
